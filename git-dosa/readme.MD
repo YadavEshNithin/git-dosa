@@ -9,7 +9,5 @@ light oil
 Dosa batter
 karam
 
-# karam dosa
-karam
 
-errakaram
+
